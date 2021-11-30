@@ -1,0 +1,10 @@
+[
+    "MF_Specular",
+    "MF_GGX_Specular",
+    "StripHighlight_Mask",
+    "HairAniso_Jitter",
+    "GP_HairAniso_WithCurve",
+    "MF_HairAniso_WithCurve",
+    "MF_GGX_Aniso",
+    "HairAniso_CurlStretch"
+]
